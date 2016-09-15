@@ -1,0 +1,11 @@
+lib/
+libs/
+target/
+src_managed/
+bin/
+gen/
+
+# IDE related
+.idea
+.ensime_cache
+.ensime
